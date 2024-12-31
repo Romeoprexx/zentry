@@ -1,8 +1,22 @@
-# React + Vite
+#🤖Introduction
+Build a visually captivating website inspired by Zentry, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes a winner.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##⚙️Tech Stack
+GSAP
+React.js
+Tailwind CSS
 
-Currently, two official plugins are available:
+###🔋Features
+👉 Scroll-Based Animations: Dynamic animations triggered by scrolling for a more engaging user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 Clip Path Shaped Animations: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+
+👉 3D Hover Effects: Interactive 3D transformations that respond to user interactions for a modern feel.
+
+👉 Video Transitions: Seamlessly integrated video elements to enhance storytelling and flow.
+
+👉 Smooth UI/UX: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
+
+👉 Completely Responsive: Flawless adaptation across all devices, ensuring a consistent experience.
+
+and many more, including code architecture and reusability
